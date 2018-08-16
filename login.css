@@ -1,0 +1,71 @@
+#login_form {
+    background: #ffffff;
+    position: absolute;
+    top: 10%;
+    
+    right: 25%;
+    bottom: 10%;
+    font-size: 18px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px #D3D3D3;
+    margin:00px 00px 400px 00px;
+    width:45%;
+    height: 75%;
+}
+.fst
+{
+    text-align: center;
+    vertical-align: middle;
+ 
+    background-color: rgb(12, 150, 16);
+   
+    padding-top: 10%;
+    padding-left:10%;
+    border-radius:12px 12px 0px 0px;
+    box-align: center;
+  
+
+}
+h4{
+    color: aliceblue;
+    transform: translateY(-50%);
+  align-content: center;
+}
+
+.txtbox{
+    background-color: #D3D3D3;
+    margin: 5px 6px;
+    text-align: left;
+    border-radius: 15px ;
+    border: 2px solid #ccc;
+    width: 70%;
+    
+    height: 8%;
+ 
+}
+button {
+
+    background-color: rgb(12, 150, 16); 
+    border: none;
+    color: white;
+    width: 70%;
+    height: 8%;
+
+    text-align: center;
+   
+    font-size: 12px;
+    border-radius: 15px;  
+    margin:20px 100px 50px  50px;
+}
+
+
+
+button:hover {
+    opacity: 0.8;
+
+}
+::placeholder {
+    color: black;
+    font-size: 9px;
+    font-weight: bold;
+  }
