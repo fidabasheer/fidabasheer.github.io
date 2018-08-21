@@ -1,6 +1,40 @@
-p{
+.bg {
+    background-image: url("space_astronaut_nasa_outer_space_job-116451.jpg");
+    background-size: cover;
+    height: 600px;
+    padding-top: 1%;
+    
  
-font-size: 20px;
-align-content: center;
+    
+}
 
+p{
+    font-size: 22px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.logo1
+{
+    width: 50px;
+    height: 50px;
+
+    background-color: black;
+    padding: 5px;
+    
+}
+
+.logo1 i{
+     color:white;
+padding: 5px;
+height: 50px;
+width: 50px;
+}
+.logo1:hover{
+background-color:skyblue;
+}
+.link{
+    color: black; 
+}
+.link:hover{
+    color: skyblue;
 }
